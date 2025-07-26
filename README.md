@@ -42,7 +42,7 @@ It provides actionable insights into revenue, customer behavior, and order trend
 - **Anniversary** and **Raksha Bandhan** are top revenue-generating occasions.
 - **Cakes** and **Soft Toys** lead in revenue among product categories.
 - Peak revenue months include **February, August, and October**.
-- **Delhi, Hyderabad, and Chennai** are among the top cities by orders.
+
 
 
 
